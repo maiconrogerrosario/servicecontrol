@@ -1,0 +1,279 @@
+﻿.cmc-mensagem-resultado {
+
+}
+
+.cmc-oculto {  
+    display: none !important;
+    visibility: hidden !important;
+}
+
+.cmc-invisivel {
+    display: none;
+    visibility: hidden;
+}
+
+.cmc-galeria-fotos-foto-ampliada {
+    max-width: 70%;
+    max-height: 80%; 
+}
+
+.cmc-galeria-fotos-seta-direita {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.cmc-galeria-fotos-seta-esquerda {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.cmc-modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    
+}
+
+.cmc-efeito-arcoiris {
+    background-image: url(../img/arcoiris.html);
+    background-repeat: no-repeat;
+   
+}
+
+.cmc-sublinhado {
+    text-decoration: underline;
+}
+
+.cmc-sublinhado:hover {
+    text-decoration: underline;
+}
+
+.cmc-sublinhado:visited {
+    text-decoration: underline;
+}
+
+.cmc-thumb30 {
+    width: 30px;
+    height: 30px;
+}
+
+.cmc-thumb50 {
+    width: 50px;
+    height: 50px;
+}
+
+.cmc-thumb80 {
+    width: 80px;
+    height: 80px;
+}
+
+.cmc-thumb110 {
+    width: 110px;
+    height: 110px;
+}
+
+.cmc-thumb150 {
+    width: 150px;
+    height: 150px;
+}
+
+.cmc-w250 {
+    width: 250px;
+}
+
+.cmc-css-h1 {
+
+}
+
+.cmc-w80 {
+    width: 80px;
+}
+
+.cmc-gray {
+    color:#202020;
+}
+
+.cmc-gray:hover {
+    color:#202020;
+}
+.cmc-gray:visited {
+    color:#202020;
+}
+
+.cmc-active {
+    font-weight: bold;
+}
+
+.cmc-active-1 {
+    font-weight: bold;
+}
+
+.cmc-active-0 {
+    font-weight: normal;
+}
+
+.cmc-wp-5 {
+    width: 5% !important;
+}
+
+.cmc-wp-10 {
+    width: 10% !important;
+}
+
+.cmc-wp-15 {
+    width: 15% !important;
+}
+
+.cmc-wp-20 {
+    width: 20% !important;
+}
+
+.cmc-wp-25 {
+    width: 25% !important;
+}
+
+.cmc-wp-30 {
+    width: 30% !important;
+}
+
+.cmc-wp-35 {
+    width: 35% !important;
+}
+
+.cmc-wp-40 {
+    width: 40% !important;
+}
+
+.cmc-wp-45 {
+    width: 45% !important;
+}
+
+.cmc-wp-50 {
+    width: 50% !important;
+}
+
+.cmc-wp-55 {
+    width: 55% !important;
+}
+
+.cmc-wp-60 {
+    width: 60% !important;
+}
+
+.cmc-wp-65 {
+    width: 65% !important;
+}
+
+.cmc-wp-70 {
+    width: 70% !important;
+}
+
+.cmc-wp-75 {
+    width: 75% !important;
+}
+
+.cmc-wp-80 {
+    width: 80% !important;
+}
+
+.cmc-wp-85 {
+    width: 85% !important;
+}
+
+.cmc-wp-90 {
+    width: 90% !important;
+}
+
+.cmc-wp-95 {
+    width: 95% !important;
+}
+
+.cmc-wp-100 {
+    width: 100% !important;
+}
+
+/*
+FORMATACAO    
+*/
+.cmc-bold,.cmc-negrito {
+    font-weight:bold;
+}
+
+/**
+ALINHAMENTO    
+*/
+.cmc-float-left {
+    float: left !important;
+}
+
+.cmc-float-right {
+    float: right !important;
+}
+
+.cmc-align-left,.cmc-left {
+    text-align: left !important;
+}
+
+.cmc-align-right,.cmc-right {
+    text-align: right !important;
+}
+
+.cmc-align-center,.cmc-center {
+    text-align: center !important;
+}
+
+
+/**
+CORES    
+*/
+.cmc-red {
+    color: red !important;
+}
+
+.cmc-white {
+    color: white !important;
+}
+
+.cmc-blue {
+    color: blue !important;
+}
+
+.cmc-lime {
+    color: lime !important;
+}
+
+.cmc-yellow {
+    color: lime !important;
+}
+
+
+/**
+CORES BACKGROUND
+*/
+.cmc-bg-red {
+    background-color: red !important;
+}
+
+.cmc-bg-white {
+    background-color: white !important;
+}
+
+.cmc-bg-blue {
+    background-color: blue !important;
+}
+
+.cmc-bg-lime {
+    background-color: lime !important;
+}
+
+.cmc-bg-yellow {
+    background-color: lime !important;
+}
